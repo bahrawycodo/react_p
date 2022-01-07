@@ -10,7 +10,7 @@ import Contact from "./components/Contact";
 class App extends Component {
   render() {
     return (
-        <BrowserRouter>
+        <BrowserRouter basename="/react_p">
             <Navbar />
             <Routes>
                 <Route exact path="/" element={<Index />} />
