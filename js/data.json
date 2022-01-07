@@ -1,0 +1,109 @@
+{
+  "Profile": {
+    "Name": "Mahmoud Elbahrawy",
+    "Jop": "Front End Developer",
+    "Birthday": "1/2/1995",
+    "Address": "SubkEldahak Elbagour Elmnofia Egypt",
+    "Phone": "01006083186",
+    "Email": "bahrawycodo@gmail.com",
+    "Website": "bahrawycodo.com",
+    "summery": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+
+  },
+  "works" : [
+    {
+      "id" : 1,
+      "icon_name": "fa fa-chain fa-2x",
+      "title": "Mobile Ux",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+    },
+    {
+      "id" : 2,
+      "icon_name": "fa fa-bolt fa-2x",
+      "title": "Mobile Ux",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+    },
+    {
+      "id" : 3,
+      "icon_name": "fa fa-tachometer fa-2x",
+      "title": "Mobile Ux",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+    }
+  ],
+
+  "portfolio" : [
+    {
+      "id":1,
+      "image": "/images/Portfolio/portfolio-img1.jpg"
+    },
+    {
+      "id":2,
+      "image": "/images/Portfolio/portfolio-img2.jpg"
+    },
+    {
+      "id":3,
+      "image": "/images/Portfolio/portfolio-img3.jpg"
+    },
+    {
+      "id":4,
+      "image": "/images/Portfolio/portfolio-img4.jpg"
+    },
+    {
+      "id":5,
+      "image": "/images/Portfolio/portfolio-img5.jpg"
+    },
+    {
+      "id":6,
+      "image": "/images/Portfolio/portfolio-img6.jpg"
+    },
+    {
+      "id":7,
+      "image": "/images/Portfolio/portfolio-img4.jpg"
+    },
+    {
+      "id":8,
+      "image": "/images/Portfolio/portfolio-img8.jpg"
+    }
+  ] ,
+  "Skills": [
+    {
+      "id": 1,
+      "Title": "Bootstrap",
+      "Number": 100
+    },
+    {
+      "id": 2,
+      "Title": "CSS3",
+      "Number": 90
+    },
+    {
+      "id": 3,
+      "Title": "Photoshop",
+      "Number": 80
+    }
+
+  ],
+  "social" : [
+    {
+      "id": 1,
+      "title": "face",
+      "icon" : "fa fa-facebook fa-lg",
+      "head" : "Follow Me on",
+      "body" : "Social Facebook"
+    },
+    {
+      "id": 2,
+      "title": "twitter",
+      "icon" : "fa fa-twitter fa-lg",
+      "head" : "Tweet Me on",
+      "body" : "Social twitter"
+    },
+    {
+      "id": 3,
+      "title": "pin",
+      "icon" : "fa fa-pinterest fa-lg",
+      "head" : "Pin Me on",
+      "body" : "Social Pinterest"
+    }
+  ]
+}
